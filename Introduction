@@ -1,0 +1,83 @@
+Project Title: NumPy Data Explorer
+📌 Project Description
+
+The NumPy Data Explorer project is designed to demonstrate a comprehensive understanding of NumPy fundamentals and its practical applications in data analysis. NumPy is a powerful Python library used for numerical computations and efficient handling of multidimensional arrays.
+
+This project focuses on exploring NumPy arrays, performing mathematical and statistical operations, reshaping data structures, applying broadcasting techniques, and comparing NumPy’s performance with standard Python lists.
+
+🎯 Objectives of the Project
+
+To understand array creation techniques in NumPy.
+
+To perform indexing and slicing operations on arrays.
+
+To apply mathematical and statistical functions on datasets.
+
+To perform axis-wise computations.
+
+To understand reshaping and broadcasting mechanisms.
+
+To implement saving and loading of NumPy arrays.
+
+To compare computational efficiency between Python lists and NumPy arrays.
+
+🔎 Key Concepts Covered
+1️⃣ Array Creation
+
+Creation of 1D and 2D arrays using:
+
+np.array()
+
+np.zeros()
+
+np.ones()
+
+np.random()
+
+2️⃣ Indexing and Slicing
+
+Accessing specific elements and subarrays using indexing techniques.
+
+3️⃣ Mathematical Operations
+
+Performing element-wise operations such as:
+
+Addition
+
+Multiplication
+
+Square root
+
+Power operations
+
+4️⃣ Statistical Analysis
+
+Applying statistical functions like:
+
+Mean
+
+Median
+
+Standard Deviation
+
+Maximum & Minimum
+
+5️⃣ Axis-wise Operations
+
+Performing row-wise and column-wise computations using the axis parameter.
+
+6️⃣ Reshaping and Broadcasting
+
+Reshaping arrays using reshape() and applying broadcasting rules for efficient computation.
+
+7️⃣ File Handling
+
+Saving arrays using np.save() and loading them using np.load().
+
+8️⃣ Performance Comparison
+
+Comparing execution time between:
+
+Python Lists
+
+NumPy Arrays
